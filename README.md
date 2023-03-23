@@ -1,2 +1,4 @@
 # SQL
 Repositorio para realizar las entregas del curso SQL
+
+Se trabajará sobre una Base de Datos de una UNIVERSIDAD, la misma contendrá informacion de la misma y se encontrará dividida en tablas de Carreras que se dictan en dicha universidad, las Sedes donde se dictan las clases, una tabla Profesores que incluira la nómina de profesores que dictan las materias y las sedes donde las dictan, tambien encontramos las tablas de Estudiantes donde veremos reflejada toda la información acerca de un estudiante y la carrera a la que esta anotado. En la tabla Becas sabremos que beca fue asignada, en caso que haya sido, y a que alumno. Tambien tenemos la tabla Modulos que nos dice qué profesor dicta los módulos, la tabla Aula y la tabla Ciudad que nos diran información acerca del aula donde se dicta y la ciudad donde se encuentra. 
